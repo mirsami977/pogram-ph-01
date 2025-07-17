@@ -1,0 +1,15 @@
+.git{
+ border: 5px; border: slateblue;
+ margin: 5px;
+ padding-bottom: 20px;
+ background-color: chocolate;
+
+}
+.back{
+text-align: center;
+color:brown;
+background-image: url("../image/avatar.png")  ;
+margin: 10px;
+padding: 400px;
+border: 5PX;
+}
